@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 5 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-09-16 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
 | [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-09-16 | [solution](problems/0373-implement-the-square-relu-activation-function) |
+| [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-09-17 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-09-15 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-09-15 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
 
