@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:03:23.368Z",
+  "generated_at": "2026-09-20T15:44:40.578Z",
   "items": {
     "problem:1277": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-09-20T11:03:21.693Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:238": {
+      "kind": "problem",
+      "id": "238",
+      "title": "Flip an Image Horizontally or Vertically",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/238",
+      "path": "problems/0238-flip-an-image-horizontally-or-vertically",
+      "first_solved_at": "2026-09-20T15:44:43.434Z",
+      "last_pushed_at": "2026-09-20T15:44:43.434Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
