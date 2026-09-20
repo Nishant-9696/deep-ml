@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:00:25.151Z",
+  "generated_at": "2026-09-20T11:03:23.368Z",
   "items": {
     "problem:1277": {
       "kind": "problem",
@@ -140,7 +140,7 @@
       "url": "https://www.deep-ml.com/problems/237",
       "path": "problems/0237-convert-rgb-image-to-grayscale",
       "first_solved_at": "2026-09-20T11:00:27.454Z",
-      "last_pushed_at": "2026-09-20T11:00:27.454Z",
+      "last_pushed_at": "2026-09-20T11:03:21.693Z",
       "language": "python",
       "lines": 20
     }
