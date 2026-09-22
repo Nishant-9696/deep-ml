@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:39:10.957Z",
+  "generated_at": "2026-09-22T16:39:14.242Z",
   "items": {
     "problem:1277": {
       "kind": "problem",
@@ -218,7 +218,7 @@
       "url": "https://www.deep-ml.com/problems/293",
       "path": "problems/0293-calculate-p50-p95-p99-latency-percentiles",
       "first_solved_at": "2026-09-22T16:39:03.244Z",
-      "last_pushed_at": "2026-09-22T16:39:03.244Z",
+      "last_pushed_at": "2026-09-22T16:39:14.059Z",
       "language": "python",
       "lines": 23
     }
