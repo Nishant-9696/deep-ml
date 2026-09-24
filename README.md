@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 20 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-09-22 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-09-19 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-09-22 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
+| [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-09-24 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-09-20 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-21 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-23 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
