@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:10:15.610Z",
+  "generated_at": "2026-09-26T17:35:11.957Z",
   "items": {
     "problem:1277": {
       "kind": "problem",
@@ -391,6 +391,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-09-25T15:10:08.005Z",
       "last_pushed_at": "2026-09-25T15:10:08.005Z"
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-09-26T17:35:12.877Z",
+      "last_pushed_at": "2026-09-26T17:35:12.877Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
