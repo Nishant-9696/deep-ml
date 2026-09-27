@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**33** solved · 27 problems · 0 labs · 6 math
+**34** solved · 28 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Flip an Image Horizontally or Vertically](https://www.deep-ml.com/problems/238) | easy | 2026-09-20 | [solution](problems/0238-flip-an-image-horizontally-or-vertically) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-09-20 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-09-19 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
+| [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-09-27 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
 | [Implement the Hardtanh Activation Function](https://www.deep-ml.com/problems/266) | easy | 2026-09-16 | [solution](problems/0266-implement-the-hardtanh-activation-function) |
 | [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-09-16 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-09-17 | [solution](problems/0108-measure-disorder-in-apple-colors) |
