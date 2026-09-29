@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**42** solved · 36 problems · 0 labs · 6 math
+**43** solved · 37 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement the Square ReLU Activation Function](https://www.deep-ml.com/problems/373) | easy | 2026-09-16 | [solution](problems/0373-implement-the-square-relu-activation-function) |
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-09-28 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-09-27 | [solution](problems/0045-linear-kernel-function) |
+| [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-09-29 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-09-17 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Pairwise Cosine Similarity Matrix](https://www.deep-ml.com/problems/1072) | easy | 2026-09-29 | [solution](problems/1072-pairwise-cosine-similarity-matrix) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-09-21 | [solution](problems/0081-poisson-distribution-probability-calculator) |
