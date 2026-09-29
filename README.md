@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 38 problems · 0 labs · 6 math
+**45** solved · 39 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bhattacharyya Distance Between Two Distributions](https://www.deep-ml.com/problems/120) | easy | 2026-09-22 | [solution](problems/0120-bhattacharyya-distance-between-two-distributions) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-09-26 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-09-19 | [solution](problems/0070-calculate-image-brightness) |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-29 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate P50/P95/P99 Latency Percentiles](https://www.deep-ml.com/problems/293) | easy | 2026-09-22 | [solution](problems/0293-calculate-p50-p95-p99-latency-percentiles) |
 | [Calculate SVM Margin Width](https://www.deep-ml.com/problems/282) | easy | 2026-09-24 | [solution](problems/0282-calculate-svm-margin-width) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-09-20 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
