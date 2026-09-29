@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**43** solved · 37 problems · 0 labs · 6 math
+**44** solved · 38 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -48,6 +48,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-09-24 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-23 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-18 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-29 | [solution](problems/0009-matrix-times-matrix) |
 | [Running Total and Moving Average with Window Frames](https://www.deep-ml.com/problems/1116) | medium | 2026-09-25 | [solution](problems/1116-running-total-and-moving-average-with-window-frames) |
 
 ## Math
