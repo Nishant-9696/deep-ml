@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:16:47.234Z",
+  "generated_at": "2026-09-30T15:17:14.937Z",
   "items": {
     "problem:1277": {
       "kind": "problem",
@@ -619,6 +619,19 @@
       "path": "math/0046-the-four-fundamental-subspaces",
       "first_solved_at": "2026-09-30T15:16:44.935Z",
       "last_pushed_at": "2026-09-30T15:16:44.935Z"
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-09-30T15:17:15.160Z",
+      "last_pushed_at": "2026-09-30T15:17:15.160Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
